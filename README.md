@@ -6,8 +6,8 @@
 📍 Cairo, Egypt  
 📧 93amr.kakashi@gmail.com  
 📱 +20 1029404662  
-🌐 [Portfolio](https://amr-ali-mohamed-1jzd.vercel.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/amr-ali-mohamed)
+🌐 [Portfolio](https://3mr.is-a.dev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/amr-ali-dev)
 
 
 </div>
